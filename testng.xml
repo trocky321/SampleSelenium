@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="SmokeTestSuite">
+	<test name="Login">
+	    
+	    <classes>
+	        <class name="com.sample.tests.AmazonHomePageTest">
+	            
+	        </class>
+	    </classes>
+	</test>
+</suite> 

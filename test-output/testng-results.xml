@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[363 :Links are Found on the AmazonHomePage!]]>
+    </line>
+  </reporter-output>
+  <suite name="SmokeTestSuite" duration-ms="6966" started-at="2016-02-14T23:19:56Z" finished-at="2016-02-14T23:20:03Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="6966" started-at="2016-02-14T23:19:56Z" finished-at="2016-02-14T23:20:03Z">
+      <class name="com.sample.tests.AmazonHomePageTest">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.sample.tests.AmazonHomePageTest@51a30bb]" name="startUp" is-config="true" duration-ms="3405" started-at="2016-02-14T18:19:56Z" finished-at="2016-02-14T18:19:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="verifyLinksPresentOnHomePage()[pri:0, instance:com.sample.tests.AmazonHomePageTest@51a30bb]" name="verifyLinksPresentOnHomePage" duration-ms="3371" started-at="2016-02-14T18:19:59Z" finished-at="2016-02-14T18:20:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[363 :Links are Found on the AmazonHomePage!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLinksPresentOnHomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sample.tests.AmazonHomePageTest@51a30bb]" name="tearDown" is-config="true" duration-ms="169" started-at="2016-02-14T18:20:03Z" finished-at="2016-02-14T18:20:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.tests.AmazonHomePageTest -->
+    </test> <!-- Login -->
+  </suite> <!-- SmokeTestSuite -->
+</testng-results>
