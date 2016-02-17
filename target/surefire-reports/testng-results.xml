@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="com.sample.tests.AmazonHomePageTest" duration-ms="8314" started-at="2016-02-15T02:21:37Z" finished-at="2016-02-15T02:21:45Z">
+  <suite name="com.sample.tests.AmazonHomePageTest" duration-ms="7951" started-at="2016-02-15T02:40:12Z" finished-at="2016-02-15T02:40:20Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="8314" started-at="2016-02-15T02:21:37Z" finished-at="2016-02-15T02:21:45Z">
+    <test name="Command line test" duration-ms="7951" started-at="2016-02-15T02:40:12Z" finished-at="2016-02-15T02:40:20Z">
       <class name="com.sample.tests.AmazonHomePageTest">
-        <test-method status="PASS" signature="startUp()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="startUp" is-config="true" duration-ms="4418" started-at="2016-02-14T21:21:37Z" finished-at="2016-02-14T21:21:42Z">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="startUp" is-config="true" duration-ms="3655" started-at="2016-02-14T21:40:12Z" finished-at="2016-02-14T21:40:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startUp -->
-        <test-method status="PASS" signature="verifyLinksPresentOnHomePage()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="verifyLinksPresentOnHomePage" duration-ms="3626" started-at="2016-02-14T21:21:42Z" finished-at="2016-02-14T21:21:45Z">
+        <test-method status="PASS" signature="verifyLinksPresentOnHomePage()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="verifyLinksPresentOnHomePage" duration-ms="4094" started-at="2016-02-14T21:40:16Z" finished-at="2016-02-14T21:40:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLinksPresentOnHomePage -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="tearDown" is-config="true" duration-ms="249" started-at="2016-02-14T21:21:45Z" finished-at="2016-02-14T21:21:45Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sample.tests.AmazonHomePageTest@78d59861]" name="tearDown" is-config="true" duration-ms="181" started-at="2016-02-14T21:40:20Z" finished-at="2016-02-14T21:40:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
